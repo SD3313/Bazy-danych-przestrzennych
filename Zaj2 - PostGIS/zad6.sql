@@ -5,7 +5,7 @@ SET search_path TO postgis_schema, public;
 CREATE EXTENSION IF NOT EXISTS postgis;
 
 SELECT sum(ST_Length(geometry))
-FROM postgis_schema.roads
+FROM postgis_schema.roads;
 
 
 SELECT ST_AsText(geometry)    as wkt,
@@ -24,7 +24,7 @@ FROM (
     FROM buildings
     ORDER BY pole DESC
     LIMIT 2
-) AS buildings
+) AS buildings;
 
 
 SELECT ROUND(CAST(ST_Distance(b.geometry, p.geometry) AS numeric), 5) AS najblizsze
