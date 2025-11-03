@@ -1,0 +1,35 @@
+zad 1
+Suma: 519230.04400000005 km2
+
+zad 2
+Deciduous Suma: 165377.79799999998
+Mixed Trees Suma: 189273.32699999996
+Evergreen Suma: 164578.91900000002
+
+zad 3
+Dlgosc tory Matanuska Suma: 268.208 km
+
+zad 4
+średnia wysokość lotnisk niemilitarnych: Wartość średnia: 264.88235294117646 m
+
+ilość lotnisk: 68
+
+zad 6
+ilość przecięć rzek i torów: 4
+
+zad 7 
+ilość wierzchołków torów: 662
+
+zad 8 
+Powierzchnia uproszczonej warstwy trees,
+parametry domyślne:  
+Suma: 519 230.04400000005 km2
+
+porównanie z zad 1
+Suma: 519 230.04400000005 km2
+
+powierchnia, 10km:
+Suma: 519 230.04400000005 km2
+
+odleglosc, 10km:
+Suma: 519 230.04400000005 km2
