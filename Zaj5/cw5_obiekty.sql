@@ -2,7 +2,7 @@ CREATE SCHEMA cw5_bdp;
 
 CREATE EXTENSION postgis;
 
-SET search_path TO cw5_bdp;
+SET search_path TO cw5_bdp,public;
 
 DROP TABLE IF EXISTS obiekty;
 
